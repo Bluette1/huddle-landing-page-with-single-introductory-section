@@ -111,10 +111,6 @@
       display: flex;
     }
     
-    footer {
-      margin-top: 23%;
-    }
-    
     .fa.fa-facebook {
       border-radius: 50%;
       border: 1px solid;
@@ -160,8 +156,5 @@
       .icons-section {
         justify-content: center;
         margin-top: 4rem;
-      }
-      footer {
-        margin-top: 10%;
       }
     }
