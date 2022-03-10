@@ -12,7 +12,6 @@ This is a solution to the [Huddle landing page with single introductory section 
   - [Built with](#built-with)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -26,8 +25,6 @@ Users should be able to:
 ### Screenshot
 
 ![](./images/screenshot.png)
-
-
 
 ### Links
 
